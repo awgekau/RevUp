@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Expo specific folders
+.expo/
+.expo-shared/
+
+# Build output directories
+ios/build/
+android/app/build/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
